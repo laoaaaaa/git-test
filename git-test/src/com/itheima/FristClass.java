@@ -7,10 +7,12 @@ public class FristClass {
         System.out.println("ccccc");
         System.out.println("ddddd");
         System.out.println("eeeee");
+        //zhushi
     }
 
     public void test(){
         int i=1;
         i+=11;
+        System.out.println(i);
     }
 }
