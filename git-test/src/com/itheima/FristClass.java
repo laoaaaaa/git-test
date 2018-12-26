@@ -8,4 +8,9 @@ public class FristClass {
         System.out.println("ddddd");
         System.out.println("eeeee");
     }
+
+    public void test(){
+        int i=1;
+        i+=11;
+    }
 }
